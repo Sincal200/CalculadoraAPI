@@ -3,13 +3,13 @@ API-REST Creada con SpringBoot
 
 ---
 
-Captura de Ejecución
+# Captura de Ejecución
 
 ![1](https://user-images.githubusercontent.com/50584963/228122890-e1deb50a-e4d4-4925-879a-e5d3bcfbca32.png)
 
 ---
 
-Cpturas de añgunos Test:
+# Cpturas de algunos Test:
 
 ![2](https://user-images.githubusercontent.com/50584963/228123481-2c22fdc4-317c-472d-acb5-88d714e9841c.png)
 
