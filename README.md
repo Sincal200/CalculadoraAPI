@@ -17,7 +17,6 @@ API-REST Creada con SpringBoot
 
 ![4](https://user-images.githubusercontent.com/50584963/228123496-22593ac0-edc8-4be9-9030-ee752e65727b.png)
 
-![5](https://user-images.githubusercontent.com/50584963/228123504-b7e4891f-d3de-480c-a410-366c2fb2520d.png)
-
+![5](https://user-images.githubusercontent.com/50584963/228124110-efd26dfc-b66f-4b67-b647-450729698de8.png)
 
 ---
