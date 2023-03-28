@@ -9,7 +9,7 @@ API-REST Creada con SpringBoot
 
 ---
 
-# Cpturas de algunos Test:
+# Capturas de algunos Test:
 
 ![2](https://user-images.githubusercontent.com/50584963/228123481-2c22fdc4-317c-472d-acb5-88d714e9841c.png)
 
