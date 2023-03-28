@@ -9,3 +9,15 @@ Captura de Ejecución
 
 ---
 
+Cpturas de añgunos Test:
+
+![2](https://user-images.githubusercontent.com/50584963/228123481-2c22fdc4-317c-472d-acb5-88d714e9841c.png)
+
+![3](https://user-images.githubusercontent.com/50584963/228123488-fbae9728-d6d9-4bdf-a65e-d2ce799a58ba.png)
+
+![4](https://user-images.githubusercontent.com/50584963/228123496-22593ac0-edc8-4be9-9030-ee752e65727b.png)
+
+![5](https://user-images.githubusercontent.com/50584963/228123504-b7e4891f-d3de-480c-a410-366c2fb2520d.png)
+
+
+---
